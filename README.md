@@ -162,10 +162,7 @@ This project is licensed under the MIT License.
 
 **Contract ID:**
 
-```
-<YOUR_CONTRACT_ID>
-```
+CD7BWZJGJUBTM5FMM4VIDY6D4U5S5ORSWW4AVHXF5QVWOIXUFSK2NGPD
 
-Replace `<YOUR_CONTRACT_ID>` with your deployed contract ID after deployment.
 
 ---
